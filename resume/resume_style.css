@@ -1,0 +1,25 @@
+body { text-align: center;
+     font-family: sans-serif;
+     background-color: #e1f0f5;
+     background-image: url(images/tile_2.png);
+     background-repeat: space;}
+h1 { font-family: "Roboto Slab", serif;
+   font-size: 3.5em;
+   color: #051d25;
+   text-shadow: .1em .1em .2em gray}
+ul { font-style: italic;
+   list-style-type: none;}
+h2 { font-family: serif;
+   font-size: 2em;
+   color: #307288}
+#accomplishments ul { font-style: bold;}
+#aboutme p { font-size: 1.05em;}
+.frame img { border: 10px solid #0e3145;
+           width: 500px;
+           height: 500px;}
+a { text-align: center;
+  color: #3f4f63;}
+a:hover { color: #547399;
+        background-color: #c9dbf0;}
+a:active { color: #79b1f2;
+         background-color: #c9dbf0;}
